@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yuiwa69/${{ github.event.repository.name }}:latest
+          tags: caishendao/${{ github.event.repository.name }}:latest
