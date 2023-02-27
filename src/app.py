@@ -1,3 +1,12 @@
+"""
+Template Docstring
+
+@author: Justin
+@date: 2023/02/27
+
+This is a template app from Streamlit: https://github.com/streamlit/streamlit-example
+"""
+
 from collections import namedtuple
 import math
 import altair as alt
